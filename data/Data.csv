@@ -1,0 +1,324 @@
+N° Siren,Nom de la compagnie,Secteur,Région,Période depuis la création (année),Nombre d'établissements,Nbre d'employés min,Nbre d'employés Max,Titre du poste,Emplacement du travail,Type de travail,Niveau requis,Nombre d'offres
+751592510,AKTISEA,activités de centres d'appels,NICE ,9,3,20,49,Data Analyst ,"Bordeaux, Nouvelle-Aquitaine",CDI ,Premier emploi,2
+432610426,Avanade,Activité de la programmation informatique,ISSY-LES-MOULINEAUX ,21,8,500,999,Data Engineer ,"Lyon, Auvergne-Rhône-Alpes",CDI ,Premier emploi,1
+432610426,Avanade,Activité de la programmation informatique,ISSY-LES-MOULINEAUX ,21,8,500,999,Data Engineer ,"Lyon, Auvergne-Rhône-Alpes",Stage,Premier emploi,1
+432610426,Avanade,Activité de la programmation informatique,ISSY-LES-MOULINEAUX ,21,8,500,999,Data Engineer ,"Bordeaux, Nouvelle-Aquitaine",CDI ,Premier emploi,1
+432610426,Avanade,Activité de la programmation informatique,ISSY-LES-MOULINEAUX ,21,8,500,999,Data Engineer ,"Bordeaux, Nouvelle-Aquitaine",Stage,Premier emploi,1
+432610426,Avanade,Activité de la programmation informatique,ISSY-LES-MOULINEAUX ,21,8,500,999,Data Engineer ,"Toulouse, Occitanie",CDI ,Premier emploi,1
+432610426,Avanade,Activité de la programmation informatique,ISSY-LES-MOULINEAUX ,21,8,500,999,Data Engineer ,"Toulouse, Occitanie",Stage,Premier emploi,1
+432610426,Avanade,Activité de la programmation informatique,ISSY-LES-MOULINEAUX ,21,8,500,999,Data Engineer ,"Nantes, Pays de la Loire",CDI ,Premier emploi,1
+432610426,Avanade,Activité de la programmation informatique,ISSY-LES-MOULINEAUX ,21,8,500,999,Data Engineer ,"Nantes, Pays de la Loire",Stage,Premier emploi,1
+432610426,Avanade,Activité de la programmation informatique,ISSY-LES-MOULINEAUX ,21,8,500,999,Data Engineer ,"Paris, Île-de-France",CDI ,Premier emploi,2
+432610426,Avanade,Activité de la programmation informatique,ISSY-LES-MOULINEAUX ,21,8,500,999,Data Engineer ,"Paris, Île-de-France",Stage,Premier emploi,1
+432610426,Avanade,Activité de la programmation informatique,ISSY-LES-MOULINEAUX ,21,8,500,999,Data Scientist ,"Paris, Île-de-France",CDI ,Confirmé,1
+487874356,Adsearch,Activités des agences de travail temporaire,PARIS,15,9,10,19,Data Analyst ,"Villeurbanne, Auvergne-Rhône-Alpes",CDI ,Premier emploi,1
+487874356,Adsearch,Activités des agences de travail temporaire,PARIS,15,9,10,19,Data Analyst ,"Lisieux, Normandie",CDI ,Premier emploi,1
+819670654,Lévavi,Activité du conseil pour les affaires et autres conseils de gestion,BEAUMONT-MONTEUX,5,2,1,2,Data Analyst ,"Lille, Hauts-de-France",CDI ,Premier emploi,1
+385365713,Inetum,Activité du conseil en systèmes et logiciels informatiques,SAINT-OUEN-SUR-SEINE ,29,85,5000,9999,Data Analyst ,"Orléans, Centre-Val de Loire",Stage,Premier emploi,1
+385365713,Inetum,Activité du conseil en systèmes et logiciels informatiques,SAINT-OUEN-SUR-SEINE ,29,85,5000,9999,Data Analyst ,"Lille, Hauts-de-France",CDI ,Premier emploi,1
+385365713,Inetum,Activité du conseil en systèmes et logiciels informatiques,SAINT-OUEN-SUR-SEINE ,29,85,5000,9999,Data Engineer ,"Orléans, Centre-Val de Loire",Stage,Premier emploi,1
+385365713,Inetum,Activité du conseil en systèmes et logiciels informatiques,SAINT-OUEN-SUR-SEINE ,29,85,5000,9999,Data Engineer ,"Orléans, Centre-Val de Loire",CDI ,Premier emploi,1
+385365713,Inetum,Activité du conseil en systèmes et logiciels informatiques,SAINT-OUEN-SUR-SEINE ,29,85,5000,9999,Data Engineer ,"Nantes, Pays de la Loire",CDI ,Premier emploi,1
+385365713,Inetum,Activité du conseil en systèmes et logiciels informatiques,SAINT-OUEN-SUR-SEINE ,29,85,5000,9999,Data Engineer ,"Nantes, Pays de la Loire",Stage,Premier emploi,1
+385365713,Inetum,Activité du conseil en systèmes et logiciels informatiques,SAINT-OUEN-SUR-SEINE ,29,85,5000,9999,Data Engineer ,"Lille, Hauts-de-France",CDI ,Premier emploi,2
+385365713,Inetum,Activité du conseil en systèmes et logiciels informatiques,SAINT-OUEN-SUR-SEINE ,29,85,5000,9999,Data Engineer ,"Saint-Ouen, Île-de-France",CDI ,Premier emploi,4
+385365713,Inetum,Activité du conseil en systèmes et logiciels informatiques,SAINT-OUEN-SUR-SEINE ,29,85,5000,9999,Data Engineer ,"Courbevoie, Île-de-France",CDI ,Premier emploi,1
+385365713,Inetum,Activité du conseil en systèmes et logiciels informatiques,SAINT-OUEN-SUR-SEINE ,29,85,5000,9999,Data Engineer ,"Niort, Nouvelle-Aquitaine",CDI ,Premier emploi,1
+385365713,Inetum,Activité du conseil en systèmes et logiciels informatiques,SAINT-OUEN-SUR-SEINE ,29,85,5000,9999,Data Scientist ,"Nantes, Pays de la Loire",Stage,Premier emploi,1
+385365713,Inetum,Activité du conseil en systèmes et logiciels informatiques,SAINT-OUEN-SUR-SEINE ,29,85,5000,9999,Data Scientist ,"Courbevoie, Île-de-France",Stage,Premier emploi,1
+503916033,Contentsquare,Activité de l'edition de logiciels applicatifs,PARIS,12,6,250,499,Data Engineer ,À distance,CDI ,Confirmé,4
+503916033,Contentsquare,Activité de l'edition de logiciels applicatifs,PARIS,12,6,250,499,Data Engineer ,"Lyon, Auvergne-Rhône-Alpes",CDI ,Confirmé,1
+503916033,Contentsquare,Activité de l'edition de logiciels applicatifs,PARIS,12,6,250,499,Data Scientist ,"Paris, Île-de-France",CDI ,Premier emploi,1
+503916033,Contentsquare,Activité de l'edition de logiciels applicatifs,PARIS,12,6,250,499,Data Scientist ,"Paris, Île-de-France",Stage,Premier emploi,1
+503916033,Contentsquare,Activité de l'edition de logiciels applicatifs,PARIS,12,6,250,499,Data Scientist ,"Paris, Île-de-France",CDI ,Confirmé,1
+503916033,Contentsquare,Activité de l'edition de logiciels applicatifs,PARIS,12,6,250,499,Data Scientist ,"Paris, Île-de-France",CDI ,Manager,1
+518 939 327,JACEM,Activités des agences de placement de main-d'oeuvre,PARIS,11,2,1,2,Data Analyst ,"Le Havre, Normandie",CDI ,Premier emploi,1
+510408388,Urban Linker,Activité du conseil pour les affaires et autres conseils de gestion,PARIS,12,6,50,99,Data Engineer ,"Paris, Île-de-France",CDI ,Confirmé,4
+510408388,Urban Linker,Activité du conseil pour les affaires et autres conseils de gestion,PARIS,12,6,50,99,Data Engineer ,"Lyon, Auvergne-Rhône-Alpes",CDI ,Confirmé,1
+381031285,OPEN,Activité du conseil en systèmes et logiciels informatiques,LEVALLOIS-PERRET,30,54,2000,4999,Data Analyst ,"Toulouse, Occitanie",CDI ,Premier emploi,1
+381031285,OPEN,Activité du conseil en systèmes et logiciels informatiques,LEVALLOIS-PERRET,30,54,2000,4999,Data Analyst ,"Paris, Île-de-France",CDI ,Premier emploi,1
+401948245,Deloitte,Activité du conseil pour les affaires et autres conseils de gestion,PUTEAUX,26,3,1000,1999,Data Engineer ,"Paris, Île-de-France",CDI ,Premier emploi,1
+401948245,Deloitte,Activité du conseil pour les affaires et autres conseils de gestion,PUTEAUX,26,3,1000,1999,Data Engineer ,"Paris, Île-de-France",Stage,Premier emploi,1
+401948245,Deloitte,Activité du conseil pour les affaires et autres conseils de gestion,PUTEAUX,26,3,1000,1999,Data Scientist ,"Paris, Île-de-France",CDI ,Premier emploi,2
+401948245,Deloitte,Activité du conseil pour les affaires et autres conseils de gestion,PUTEAUX,26,3,1000,1999,Data Scientist ,"Paris, Île-de-France",CDI ,Confirmé,2
+401948245,Deloitte,Activité du conseil pour les affaires et autres conseils de gestion,PUTEAUX,26,3,1000,1999,Data Scientist ,"Paris, Île-de-France",CDI ,Manager,1
+401948245,Deloitte,Activité du conseil pour les affaires et autres conseils de gestion,PUTEAUX,26,3,1000,1999,Data Scientist ,"Paris, Île-de-France",Stage,Premier emploi,1
+562033357,SCOR,Activité de la réassurance,PARIS,31,4,500,999,Data Analyst ,"Paris, Île-de-France",CDI ,Président/DG,1
+562033357,SCOR,Activité de la réassurance,PARIS,31,4,500,999,Data Analyst ,"Paris, Île-de-France",CDI ,Premier emploi,1
+562033357,SCOR,Activité de la réassurance,PARIS,31,4,500,999,Data Analyst ,"Paris, Île-de-France",CDI ,Confirmé,1
+562033357,SCOR,Activité de la réassurance,PARIS,31,4,500,999,Data Analyst ,"Paris, Île-de-France",Stage,Premier emploi,1
+562033357,SCOR,Activité de la réassurance,PARIS,31,4,500,999,Data Scientist ,"Paris, Île-de-France",Stage,Premier emploi,1
+562033357,SCOR,Activité de la réassurance,PARIS,31,4,500,999,Data Scientist ,"Paris, Île-de-France",CDI ,Confirmé,1
+807604608,Wizaly,Activité du conseil en systèmes et logiciels informatiques,PARIS,7,2,10,19,Data Analyst ,"Paris, Île-de-France",Stage,Premier emploi,1
+807604608,Wizaly,Activité du conseil en systèmes et logiciels informatiques,PARIS,7,2,10,19,Data Analyst ,"Paris, Île-de-France",CDI ,Premier emploi,1
+812649796,Betclic Group,Activité du conseil pour les affaires et autres conseils de gestion,BORDEAUX,6,3,10,19,Data Analyst ,"Bordeaux, Nouvelle-Aquitaine",CDI ,Confirmé,1
+812649796,Betclic Group,Activité du conseil pour les affaires et autres conseils de gestion,BORDEAUX,6,3,10,19,Data Engineer ,"Bordeaux, Nouvelle-Aquitaine",CDI ,Premier emploi,1
+424059822,Cdiscount,Activité de la vente à distance sur catalogue général,BORDEAUX,22,33,1000,1999,Data Analyst ,"Bordeaux, Nouvelle-Aquitaine",Stage,Premier emploi,1
+424059822,Cdiscount,Activité de la vente à distance sur catalogue général,BORDEAUX,22,33,1000,1999,Data Analyst ,"Bordeaux, Nouvelle-Aquitaine",CDI ,Premier emploi,3
+424059822,Cdiscount,Activité de la vente à distance sur catalogue général,BORDEAUX,22,33,1000,1999,Data Scientist ,"Bordeaux, Nouvelle-Aquitaine",Stage,Premier emploi,1
+552065187,Parfums Christian Dior,Activité de la fabrication de parfums et de produits pour la toilette,PARIS,66,20,2000,4999,Data Scientist ,"Neuilly-sur-Seine, Île-de-France",CDI ,Confirmé,1
+391543576,Procter & Gamble,Activité des intermédiaires spécialisés dans le commerce d'autres produits spécifiques,ASNIERES-SUR-SEINE ,28,10,500,999,Data Analyst ,"Paris, Île-de-France",CDI ,Premier emploi,3
+421206079,ADEO,Activité des intermédiaires du commerce en meubles,RONCHIN ,22,10,500,999,Data Analyst ,"Lille, Hauts-de-France",CDI ,Confirmé,2
+421206079,ADEO,Activité des intermédiaires du commerce en meubles,RONCHIN ,22,10,500,999,Data Engineer ,"Lille, Hauts-de-France",CDI ,Confirmé,1
+428166201,Blue Search Conseil,Activité de l'autre mise à disposition de ressources humaines,PARIS,21,3,10,19,Data Analyst ,"Paris, Île-de-France",CDI ,Confirmé,1
+392901856,Ipsos France,Activité des études de marché et sondages,PARIS,28,11,500,999,Data Analyst ,"Paris, Île-de-France",CDI ,Confirmé,1
+392901856,Ipsos France,Activité des études de marché et sondages,PARIS,28,11,500,999,Data Scientist ,"Paris, Île-de-France",CDI ,Confirmé,1
+849741905,Kereon Intelligence,Activité du conseil pour les affaires et autres conseils de gestion,NIORT ,2,1,,,Data Analyst ,"Paris, Île-de-France",CDI ,Confirmé,1
+849741905,Kereon Intelligence,Activité du conseil pour les affaires et autres conseils de gestion,NIORT ,2,1,,,Data Analyst ,"Paris, Île-de-France",CDI ,Premier emploi,1
+452625593,APSIDE TOP,"Activité de l'ingénierie, études techniques",SAINT-PIERRE-DES-CORPS,17,5,100,199,Data Analyst ,"Tours, Centre-Val de Loire",CDI ,Confirmé,1
+535217723,happn,Activité de l'edition de logiciels applicatifs,PARIS,10,3,50,99,Data Analyst ,"Paris, Île-de-France",CDI ,Confirmé,2
+535217723,happn,Activité de l'edition de logiciels applicatifs,PARIS,10,3,50,99,Data Engineer ,"Paris, Île-de-France",CDI ,Confirmé,2
+824537856,Bending Spoons,Activité du commerce de gros (commerce interentreprises) d'ordinateurs,PARIS,4,2,3,5,Data Analyst ,"Paris, Île-de-France",CDI ,Premier emploi,1
+775665615,Crédit Agricole d'Ile-de-France,Activité des autres intermédiations monétaires,PARIS,28,448,2000,4999,Data Analyst ,"Paris, Île-de-France",CDI ,Premier emploi,1
+342966942,CHAUMET,Activité du commerce de gros (commerce interentreprises) d'articles d'horlogerie et de bijouterie,PARIS,34,7,250,499,Data Analyst ,"Paris, Île-de-France",CDI ,Premier emploi,1
+342966942,CHAUMET,Activité du commerce de gros (commerce interentreprises) d'articles d'horlogerie et de bijouterie,PARIS,34,7,250,499,Data Analyst ,"Paris, Île-de-France",CDI ,Confirmé,1
+340012392,DPDgroup,Activités des sièges sociaux,ISSY-LES-MOULINEAUX ,34,11,200,249,Data Analyst ,"Issy-les-Moulineaux, Île-de-France",CDI ,Premier emploi,1
+793555368,JACQUEMUS,Activités spécialisées de design,PARIS,8,5,50,99,Data Analyst ,"Paris, Île-de-France",CDI ,Premier emploi,2
+572185684,Club Med,Activité de l'hébergement touristique et autre hébergement de courte durée,PARIS,64,144,5000,9999,Data Engineer ,"Paris, Île-de-France",CDI ,Confirmé,1
+572185684,Club Med,Activité de l'hébergement touristique et autre hébergement de courte durée,PARIS,64,144,5000,9999,Data Engineer ,"Paris, Île-de-France",Stage,Premier emploi,1
+484175252,Talend,Activité de l'edition de logiciels applicatifs,SURESNES ,16,7,250,499,Data Engineer ,"Nantes, Pays de la Loire",CDI ,Premier emploi,1
+484175252,Talend,Activité de l'edition de logiciels applicatifs,SURESNES ,16,7,250,499,Data Engineer ,"Suresnes, Île-de-France",CDD,Confirmé,1
+519350813,Botify,Activité de l'édition de logiciels système et de réseau,PARIS,11,5,50,99,Data Scientist ,"Paris, Île-de-France",CDI ,Confirmé,1
+519350813,Botify,Activité de l'édition de logiciels système et de réseau,PARIS,11,5,50,99,Data Analyst ,"Paris, Île-de-France",Stage,Premier emploi,1
+519350813,Botify,Activité de l'édition de logiciels système et de réseau,PARIS,11,5,50,99,Data Engineer ,"Paris, Île-de-France",CDI ,Confirmé,1
+722000965,BMW Group France,Activité du commerce de voitures et de véhicules automobiles légers,MONTIGNY-LE-BRETONNEUX,49,6,250,499,Data Analyst ,"Montigny-le-Bretonneux, Île-de-France",CDD,Manager,1
+379134166,Volvo Group,Activité de l'entretien et réparation d'autres véhicules automobiles,SAINT-PRIEST ,31,86,1000,1999,Data Analyst ,"Lyon, Auvergne-Rhône-Alpes",CDI ,Premier emploi,3
+379134166,Volvo Group,Activité de l'entretien et réparation d'autres véhicules automobiles,SAINT-PRIEST ,31,86,1000,1999,Data Engineer ,"Lyon, Auvergne-Rhône-Alpes",CDI ,Premier emploi,2
+379134166,Volvo Group,Activité de l'entretien et réparation d'autres véhicules automobiles,SAINT-PRIEST ,31,86,1000,1999,Data Scientist ,"Lyon, Auvergne-Rhône-Alpes",CDI ,Premier emploi,1
+542107651,ENGIE,Activité du commerce de combustibles gazeux par conduites,COURBEVOIE ,66,968,2000,4999,Data Analyst ,"Saint-Ouen, Île-de-France",Stage,Premier emploi,1
+542107651,ENGIE,Activité du commerce de combustibles gazeux par conduites,COURBEVOIE ,66,968,2000,4999,Data Scientist ,"Saint-Ouen, Île-de-France",CDI ,Premier emploi,1
+840757587,Xiaomi Technology,"Activité du commerce de gros (commerce interentreprises) d'ordinateurs, d'équipements informatiques périphériques et de logiciels",BOULOGNE-BILLANCOURT ,3,2,20,49,Data Analyst ,"Paris, Île-de-France",CDI ,Confirmé,1
+800931925,Jellyfish,Activités des agences de publicité,PARIS,6,4,50,99,Data Analyst ,"Paris, Île-de-France",CDI ,Manager,1
+453883878,TASTE,Activité du conseil pour les affaires et autres conseils de gestion,PARIS,17,3,20,49,Data Scientist ,"Paris, Île-de-France",CDI ,Premier emploi,1
+552018020,Monoprix,Activités des sièges sociaux,CLICHY ,66,147,1000,1999,Data Scientist ,"Clichy, Île-de-France",Stage,Premier emploi,2
+552018020,Monoprix,Activités des sièges sociaux,CLICHY ,66,147,1000,1999,Data Scientist ,"Clichy, Île-de-France",CDI ,Manager,1
+552018020,Monoprix,Activités des sièges sociaux,CLICHY ,66,147,1000,1999,Data Scientist ,"Clichy, Île-de-France",CDI ,Premier emploi,1
+844622738,Harry Hope,Activités des agences de placement de main-d'oeuvre,DOMMARTEMONT ,2,10,1,2,Data Analyst ,"Montbéliard, Bourgogne-Franche-Comté",CDI ,Premier emploi,1
+844622738,Harry Hope,Activités des agences de placement de main-d'oeuvre,DOMMARTEMONT ,2,10,1,2,Data Analyst ,"Calais, Hauts-de-France",CDI ,Confirmé,1
+844622738,Harry Hope,Activités des agences de placement de main-d'oeuvre,DOMMARTEMONT ,2,10,1,2,Data Analyst ,"Lille, Hauts-de-France",CDI ,Confirmé,1
+801495953,UCPA,Activités des agences de voyage,ARCUEIL ,7,2,20,49,Data Scientist ,"Arcueil, Île-de-France",CDI ,Premier emploi,1
+481625853,Believe,Activité de l'enregistrement sonore et édition musicale,PARIS,16,9,500,999,Data Analyst ,"Paris, Île-de-France",Stage,Premier emploi,1
+481625853,Believe,Activité de l'enregistrement sonore et édition musicale,PARIS,16,9,500,999,Data Analyst ,"Paris, Île-de-France",CDI ,Manager,1
+481625853,Believe,Activité de l'enregistrement sonore et édition musicale,PARIS,16,9,500,999,Data Analyst ,"Paris, Île-de-France",CDI ,Président/DG,1
+481625853,Believe,Activité de l'enregistrement sonore et édition musicale,PARIS,16,9,500,999,Data Engineer ,"Paris, Île-de-France",CDI ,Manager,2
+481625853,Believe,Activité de l'enregistrement sonore et édition musicale,PARIS,16,9,500,999,Data Scientist ,"Paris, Île-de-France",CDI ,Manager,1
+483898672,Davidson consulting,"Activité de l'ingénierie, études techniques",BOULOGNE-BILLANCOURT ,16,5,20,49,Data Analyst ,"Lyon, Auvergne-Rhône-Alpes",CDI ,Premier emploi,1
+483898672,Davidson consulting,"Activité de l'ingénierie, études techniques",BOULOGNE-BILLANCOURT ,16,5,20,49,Data Engineer ,"Lyon, Auvergne-Rhône-Alpes",CDI ,Premier emploi,1
+422373670,Spring France,Activité de la formation continue d'adultes,CHATEAUNEUF-GRASSE ,11,4,1,2,Data Scientist ,"Écully, Auvergne-Rhône-Alpes",CDI ,Premier emploi,2
+794189928,IVIDATA LIFE SCIENCES,Activité du conseil en systèmes et logiciels informatiques,LEVALLOIS-PERRET,8,1,100,199,Data Scientist ,Auvergne-Rhône-Alpes,CDI ,Premier emploi,1
+339752636,PALAIS DES THÉS,Activité des autres commerces de détail alimentaires en magasin spécialisé,PARIS,34,45,250,499,Data Analyst ,"Paris, Île-de-France",CDI ,Confirmé,1
+802504662,All You Need,Activité de l'autre mise à disposition de ressources humaines,LILLE,7,3,3,5,Data Analyst ,"Calais, Hauts-de-France",CDI ,Confirmé,1
+802504662,All You Need,Activité de l'autre mise à disposition de ressources humaines,LILLE,7,3,3,5,Data Analyst ,"Calais, Hauts-de-France",CDI ,Premier emploi,1
+802504662,All You Need,Activité de l'autre mise à disposition de ressources humaines,LILLE,7,3,3,5,Data Analyst ,"Lille, Hauts-de-France",CDI ,Premier emploi,1
+802504662,All You Need,Activité de l'autre mise à disposition de ressources humaines,LILLE,7,3,3,5,Data Analyst ,"Lille, Hauts-de-France",CDI ,Confirmé,1
+802504662,All You Need,Activité de l'autre mise à disposition de ressources humaines,LILLE,7,3,3,5,Data Analyst ,"Villeneuve-d'Ascq, Hauts-de-France",CDI ,Premier emploi,1
+335186094,Ubisoft,Activité de l'édition de jeux électroniques,CARENTOIR,35,6,3,5,Data Analyst ,"Montreuil, Île-de-France",CDI ,Manager,1
+335186094,Ubisoft,Activité de l'édition de jeux électroniques,CARENTOIR,35,6,3,5,Data Analyst ,"Paris, Île-de-France",CDI ,Manager,1
+326300159,TF1,Activité de l'edition de chaînes généralistes,BOULOGNE-BILLANCOURT,38,9,1000,1999,Data Scientist ,"Boulogne-Billancourt, Île-de-France",CDI ,Premier emploi,1
+833700701,Citymapper,Activité des portails internet. Societe,PARIS,3,1,,,Data Analyst ,À distance,CDD,Premier emploi,1
+500569405,Decathlon France,Activité du commerce de détail d'articles de sport en magasin spécialisé,VILLENEUVE D'ASCQ ,14,406,10000,,Data Analyst ,"Croix, Hauts-de-France",Stage,Premier emploi,1
+500569405,Decathlon France,Activité du commerce de détail d'articles de sport en magasin spécialisé,VILLENEUVE D'ASCQ ,14,406,10000,,Data Analyst ,"Croix, Hauts-de-France",CDI ,Manager,1
+500569405,Decathlon France,Activité du commerce de détail d'articles de sport en magasin spécialisé,VILLENEUVE D'ASCQ ,14,406,10000,,Data Engineer ,"Croix, Hauts-de-France",Stage,Premier emploi,1
+500569405,Decathlon France,Activité du commerce de détail d'articles de sport en magasin spécialisé,VILLENEUVE D'ASCQ ,14,406,10000,,Data Engineer ,"Croix, Hauts-de-France",CDI ,Confirmé,1
+500569405,Decathlon France,Activité du commerce de détail d'articles de sport en magasin spécialisé,VILLENEUVE D'ASCQ ,14,406,10000,,Data Engineer ,"Lille, Hauts-de-France",CDI ,Confirmé,1
+500569405,Decathlon France,Activité du commerce de détail d'articles de sport en magasin spécialisé,VILLENEUVE D'ASCQ ,14,406,10000,,Data Engineer ,"Paris, Île-de-France",CDI ,Confirmé,1
+500569405,Decathlon France,Activité du commerce de détail d'articles de sport en magasin spécialisé,VILLENEUVE D'ASCQ ,14,406,10000,,Data Scientist ,"Paris, Île-de-France",CDI ,Confirmé,1
+500569405,Decathlon France,Activité du commerce de détail d'articles de sport en magasin spécialisé,VILLENEUVE D'ASCQ ,14,406,10000,,Data Scientist ,"Paris, Île-de-France",CDI ,Manager,1
+392720843,The NPD Group,Activité des études de marché et sondages, ETATS-UNIS,28,6,100,199,Data Scientist ,"Paris, Île-de-France",Stage,Premier emploi,1
+442619094,Crédit Mutuel Loire Atlantique Centre Ouest,Activité des banques mutualistes,NANTES ,16,1,,,Data Scientist ,"Cergy, Île-de-France",CDI ,Premier emploi,1
+442619094,Crédit Mutuel Loire Atlantique Centre Ouest,Activité des banques mutualistes,NANTES ,16,1,,,Data Scientist ,"Strasbourg, Grand Est",CDI ,Premier emploi,1
+442619094,Crédit Mutuel Loire Atlantique Centre Ouest,Activité des banques mutualistes,NANTES ,16,1,,,Data Scientist ,"Strasbourg, Grand Est",CDI ,Confirmé,2
+442619094,Crédit Mutuel Loire Atlantique Centre Ouest,Activité des banques mutualistes,NANTES ,16,1,,,Data Engineer ,"Nantes, Pays de la Loire",CDI ,Premier emploi,1
+810433979,Staycity,Activité de l'hébergement touristique et autre hébergement de courte durée,LYON ,6,1,10,19,Data Engineer ,"Lyon, Auvergne-Rhône-Alpes",CDI ,Premier emploi,1
+612012427,Schlumberger,"Activité de l'ingénierie, études techniques",PUTEAUX ,42,10,50,99,Data Analyst ,"Clamart, Île-de-France",Stage,Premier emploi,1
+612012427,Schlumberger,"Activité de l'ingénierie, études techniques",PUTEAUX ,42,10,50,99,Data Scientist ,"Montpellier, Occitanie",Stage,Premier emploi,4
+612012427,Schlumberger,"Activité de l'ingénierie, études techniques",PUTEAUX ,42,10,50,99,Data Scientist ,"Clamart, Île-de-France",Stage,Premier emploi,1
+330703844,Capgemini,Activités des sièges sociaux,PARIS,36,4,,,Data Engineer ,"Paris, Île-de-France",CDI ,Confirmé,1
+330703844,Capgemini,Activités des sièges sociaux,PARIS,36,4,,,Data Engineer ,"Paris, Île-de-France",CDI ,Premier emploi,1
+330703844,Capgemini,Activités des sièges sociaux,PARIS,36,4,,,Data Engineer ,Nantes et périphérie Hybride,CDI ,Manager,3
+330703844,Capgemini,Activités des sièges sociaux,PARIS,36,4,,,Data Engineer ,Nantes et périphérie Hybride,CDI ,Confirmé,1
+330703844,Capgemini,Activités des sièges sociaux,PARIS,36,4,,,Data Engineer ,"Rennes, Bretagne",CDI ,Confirmé,1
+330703844,Capgemini,Activités des sièges sociaux,PARIS,36,4,,,Data Engineer ,"Rennes, Bretagne",CDI ,Manager,1
+330703844,Capgemini,Activités des sièges sociaux,PARIS,36,4,,,Data Engineer ,"Toulouse, Occitanie",CDI ,Manager,2
+330703844,Capgemini,Activités des sièges sociaux,PARIS,36,4,,,Data Engineer ,"Toulouse, Occitanie",CDI ,Confirmé,1
+330703844,Capgemini,Activités des sièges sociaux,PARIS,36,4,,,Data Engineer ,"Issy-les-Moulineaux, Île-de-France",CDI ,Manager,1
+330703844,Capgemini,Activités des sièges sociaux,PARIS,36,4,,,Data Analyst ,"Rennes, Bretagne",CDI ,Confirmé,1
+330703844,Capgemini,Activités des sièges sociaux,PARIS,36,4,,,Data Analyst ,"Toulouse, Occitanie",CDI ,Confirmé,1
+330703844,Capgemini,Activités des sièges sociaux,PARIS,36,4,,,Data Analyst ,"Issy-les-Moulineaux, Île-de-France",CDI ,Manager,1
+330703844,Capgemini,Activités des sièges sociaux,PARIS,36,4,,,Data Analyst ,"Lyon, Auvergne-Rhône-Alpes",Stage,Premier emploi,1
+330703844,Capgemini,Activités des sièges sociaux,PARIS,36,4,,,Data Scientist ,"Nantes, Pays de la Loire",CDI ,Confirmé,1
+326118502,Pierre Fabre Group,Activité du commerce de gros (commerce interentreprises) de produits pharmaceutiques,BOULOGNE-BILLANCOURT,38,17,500,999,Data Analyst ,"Lavaur, Occitanie",Stage,Premier emploi,1
+326118502,Pierre Fabre Group,Activité du commerce de gros (commerce interentreprises) de produits pharmaceutiques,BOULOGNE-BILLANCOURT,38,17,500,999,Data Analyst ,"Lavaur, Occitanie",CDI ,Premier emploi,1
+326118502,Pierre Fabre Group,Activité du commerce de gros (commerce interentreprises) de produits pharmaceutiques,BOULOGNE-BILLANCOURT,38,17,500,999,Data Engineer ,"Lavaur, Occitanie",CDI ,Premier emploi,1
+954503439,Schneider Electric,Activité de la Fabrication d'équipements électriques,Rueil malmaison ,65,13,2000,4999,Data Analyst ,"Rueil-Malmaison, Île-de-France",Stage,Premier emploi,1
+954503439,Schneider Electric,Activité de la Fabrication d'équipements électriques,Rueil malmaison ,65,13,2000,4999,Data Analyst ,"Grenoble, Auvergne-Rhône-Alpes",Stage,Premier emploi,1
+954503439,Schneider Electric,Activité de la Fabrication d'équipements électriques,Rueil malmaison ,65,13,2000,4999,Data Analyst ,"Carros, Provence-Alpes-Côte d’Azur",Stage,Premier emploi,1
+954503439,Schneider Electric,Activité de la Fabrication d'équipements électriques,Rueil malmaison ,65,13,2000,4999,Data Scientist ,"Eybens, Auvergne-Rhône-Alpes",Stage,Premier emploi,1
+954503439,Schneider Electric,Activité de la Fabrication d'équipements électriques,Rueil malmaison ,65,13,2000,4999,Data Scientist ,"Dijon, Bourgogne-Franche-Comté",Stage,Premier emploi,2
+843359423,Jellysmack,Activité de la production de films et de programmes pour la télévision,LEVALLOIS-PERRET,3,2,1,2,Data Engineer ,À distance,CDI ,Manager,1
+843359423,Jellysmack,Activité de la production de films et de programmes pour la télévision,LEVALLOIS-PERRET,3,2,1,2,Data Engineer ,À distance,CDI ,Premier emploi,1
+843359423,Jellysmack,Activité de la production de films et de programmes pour la télévision,LEVALLOIS-PERRET,3,2,1,2,Data Engineer ,"Paris, Île-de-France",CDI ,Premier emploi,1
+843359423,Jellysmack,Activité de la production de films et de programmes pour la télévision,LEVALLOIS-PERRET,3,2,1,2,Data Analyst ,À distance,CDI ,Manager,3
+843359423,Jellysmack,Activité de la production de films et de programmes pour la télévision,LEVALLOIS-PERRET,3,2,1,2,Data Analyst ,"Paris, Île-de-France",CDI ,Manager,4
+843359423,Jellysmack,Activité de la production de films et de programmes pour la télévision,LEVALLOIS-PERRET,3,2,1,2,Data Analyst ,"Paris, Île-de-France",CDI ,Confirmé,1
+843359423,Jellysmack,Activité de la production de films et de programmes pour la télévision,LEVALLOIS-PERRET,3,2,1,2,Data Scientist ,"Paris, Île-de-France",CDI ,Manager,2
+843359423,Jellysmack,Activité de la production de films et de programmes pour la télévision,LEVALLOIS-PERRET,3,2,1,2,Data Scientist ,"Paris, Île-de-France",CDI ,Premier emploi,4
+527758726,Birdz,Activité des télécommunications filaires,SAINT-MAURICE ,11,10,100,199,Data Scientist ,"Lyon, Auvergne-Rhône-Alpes",CDI ,Premier emploi,1
+404 969 552,Eaton,Activité de la fabrication d'autres matériels électriques,MONTROTTIER ,25,8,200,249,Data Scientist ,"Montbonnot-Saint-Martin, Auvergne-Rhône-Alpes, À distance",CDI ,Premier emploi,1
+437668056,Universal Music Group,"Activité des autres activités des services financiers, hors assurance et caisses de retraite",PARIS,20,1,,,Data Analyst ,"Paris, Île-de-France",CDI ,Premier emploi,1
+437668056,Universal Music Group,"Activité des autres activités des services financiers, hors assurance et caisses de retraite",PARIS,20,1,,,Data Analyst ,"Paris, Île-de-France",CDI ,Confirmé,1
+477832612,Accenture France,Activités des sociétés holding,PARIS,17,1,,,Data Scientist ,"Paris, Île-de-France",CDI ,Manager,1
+477832612,Accenture France,Activités des sociétés holding,PARIS,17,1,,,Data Engineer ,"Paris, Île-de-France",CDI ,Manager,1
+477832612,Accenture France,Activités des sociétés holding,PARIS,17,1,,,Data Engineer ,"Paris, Île-de-France",CDI ,Premier emploi,2
+477832612,Accenture France,Activités des sociétés holding,PARIS,17,1,,,Data Engineer ,"Clermont-Ferrand, Auvergne-Rhône-Alpes",CDI ,Manager,1
+477832612,Accenture France,Activités des sociétés holding,PARIS,17,1,,,Data Scientist ,"Clermont-Ferrand, Auvergne-Rhône-Alpes",CDI ,Manager,1
+379342306,LINCOLN,Activité du conseil en systèmes et logiciels informatiques,BOULOGNE-BILLANCOURT,31,9,200,249,Data Engineer ,"Boulogne-Billancourt, Île-de-France",CDI ,Confirmé,1
+379342306,LINCOLN,Activité du conseil en systèmes et logiciels informatiques,BOULOGNE-BILLANCOURT,31,9,200,249,Data Engineer ,"Paris, Île-de-France",CDI ,Premier emploi,3
+379342306,LINCOLN,Activité du conseil en systèmes et logiciels informatiques,BOULOGNE-BILLANCOURT,31,9,200,249,Data Engineer ,"Lyon, Auvergne-Rhône-Alpes",CDI ,Premier emploi,1
+379342306,LINCOLN,Activité du conseil en systèmes et logiciels informatiques,BOULOGNE-BILLANCOURT,31,9,200,249,Data Engineer ,"Boulogne-Billancourt, Île-de-France",CDI ,Premier emploi,1
+379342306,LINCOLN,Activité du conseil en systèmes et logiciels informatiques,BOULOGNE-BILLANCOURT,31,9,200,249,Data Analyst ,"Boulogne-Billancourt, Île-de-France",CDI ,Confirmé,1
+379342306,LINCOLN,Activité du conseil en systèmes et logiciels informatiques,BOULOGNE-BILLANCOURT,31,9,200,249,Data Analyst ,"Lyon, Auvergne-Rhône-Alpes",CDI ,Confirmé,1
+379342306,LINCOLN,Activité du conseil en systèmes et logiciels informatiques,BOULOGNE-BILLANCOURT,31,9,200,249,Data Scientist ,"Paris, Île-de-France",Stage,Premier emploi,4
+552059024,Thales,Activités des sièges sociaux,COURBEVOIE ,66,61,1000,1999,Data Scientist ,"Bordeaux, Nouvelle-Aquitaine",CDI ,Confirmé,2
+552059024,Thales,Activités des sièges sociaux,COURBEVOIE ,66,61,1000,1999,Data Scientist ,"Bordeaux, Nouvelle-Aquitaine",Stage,Premier emploi,2
+552059024,Thales,Activités des sièges sociaux,COURBEVOIE ,66,61,1000,1999,Data Scientist ,"Gennevilliers, Île-de-France",Stage,Premier emploi,2
+552059024,Thales,Activités des sièges sociaux,COURBEVOIE ,66,61,1000,1999,Data Analyst ,"Gennevilliers, Île-de-France",CDI ,Premier emploi,1
+552059024,Thales,Activités des sièges sociaux,COURBEVOIE ,66,61,1000,1999,Data Scientist ,"Toulouse, Occitanie",Stage,Premier emploi,2
+552059024,Thales,Activités des sièges sociaux,COURBEVOIE ,66,61,1000,1999,Data Analyst ,"Toulouse, Occitanie",Stage,Premier emploi,1
+552059024,Thales,Activités des sièges sociaux,COURBEVOIE ,66,61,1000,1999,Data Scientist ,"Brest, Bretagne",Stage,Premier emploi,1
+552059024,Thales,Activités des sièges sociaux,COURBEVOIE ,66,61,1000,1999,Data Analyst ,"Vélizy-Villacoublay, Île-de-France",CDI ,Confirmé,1
+552059024,Thales,Activités des sièges sociaux,COURBEVOIE ,66,61,1000,1999,Data Scientist ,"Antibes, Provence-Alpes-Côte d’Azur",CDI ,Premier emploi,1
+552059024,Thales,Activités des sièges sociaux,COURBEVOIE ,66,61,1000,1999,Data Scientist ,"Vélizy-Villacoublay, Île-de-France",CDI ,Confirmé,1
+880881784,IKIGAÏ,Activité de la programmation informatique,LYON ,1,1,,,Data Analyst ,"Annecy, Auvergne-Rhône-Alpes",CDI ,Premier emploi,1
+795083336,Ad Scientiam,Activité de la programmation informatique,PARIS,8,5,20,49,Data Scientist ,"Paris, Île-de-France",CDI ,Premier emploi,2
+385171582,Carrefour,Activité des autres activités de soutien aux entreprises,MASSY,28,8,500,999,Data Analyst ,"Massy, Île-de-France",CDD,Confirmé,1
+385171582,Carrefour,Activité des autres activités de soutien aux entreprises,MASSY,28,8,500,999,Data Analyst ,"Massy, Île-de-France",CDI ,Premier emploi,1
+385171582,Carrefour,Activité des autres activités de soutien aux entreprises,MASSY,28,8,500,999,Data Analyst ,"Massy, Île-de-France",Stage,Premier emploi,1
+385171582,Carrefour,Activité des autres activités de soutien aux entreprises,MASSY,28,8,500,999,Data Scientist ,"Mondeville, Normandie",CDI ,Premier emploi,1
+385171582,Carrefour,Activité des autres activités de soutien aux entreprises,MASSY,28,8,500,999,Data Scientist ,"Massy, Île-de-France",CDI ,Confirmé,1
+385171582,Carrefour,Activité des autres activités de soutien aux entreprises,MASSY,28,8,500,999,Data Scientist ,"Massy, Île-de-France",CDI ,Premier emploi,1
+385171582,Carrefour,Activité des autres activités de soutien aux entreprises,MASSY,28,8,500,999,Data Engineer ,"Massy, Île-de-France",CDI ,Premier emploi,1
+552065609,BRED,Activité des autres intermédiations monétaires,PARIS ,66,3,,,Data Analyst ,"Joinville-le-Pont, Île-de-France",CDI ,Premier emploi,1
+852598705,Praexo,Activité du conseil pour les affaires et autres conseils de gestion,PARIS ,2,3,,,Data Engineer ,"Paris, Île-de-France",CDI ,Premier emploi,1
+428268023,Groupe Casino,Activité des hypermarchés,SAINT-ETIENNE,22,4407,10000,,Data Analyst ,"Saint-Étienne, Auvergne-Rhône-Alpes",CDI ,Premier emploi,1
+538197799,Zenly,Activité de l'edition de logiciels applicatifs,PARIS,9,5,20,49,Data Analyst ,"Paris, Île-de-France",CDI ,Premier emploi,1
+493861363,OpenClassrooms,Activité de la formation continue d'adultes,PARIS,12,7,50,99,Data Engineer ,À distance,CDI ,Confirmé,1
+493861363,OpenClassrooms,Activité de la formation continue d'adultes,PARIS,12,7,50,99,Data Analyst ,À distance,CDI ,Confirmé,2
+493861363,OpenClassrooms,Activité de la formation continue d'adultes,PARIS,12,7,50,99,Data Analyst ,"Paris, Île-de-France",CDI ,Premier emploi,2
+493861363,OpenClassrooms,Activité de la formation continue d'adultes,PARIS,12,7,50,99,Data Analyst ,"Paris, Île-de-France",Stage,Premier emploi,1
+813140357,Datadog,Activité du conseil en systèmes et logiciels informatiques,PARIS,6,4,200,249,Data Analyst ,"Paris, Île-de-France",CDI ,Manager,3
+813140357,Datadog,Activité du conseil en systèmes et logiciels informatiques,PARIS,6,4,200,249,Data Analyst ,"Paris, Île-de-France",CDI ,Confirmé,1
+813140357,Datadog,Activité du conseil en systèmes et logiciels informatiques,PARIS,6,4,200,249,Data Engineer ,"Paris, Île-de-France",CDI ,Premier emploi,3
+813140357,Datadog,Activité du conseil en systèmes et logiciels informatiques,PARIS,6,4,200,249,Data Engineer ,À distance,CDI ,Premier emploi,2
+813140357,Datadog,Activité du conseil en systèmes et logiciels informatiques,PARIS,6,4,200,249,Data Scientist ,"Paris, Île-de-France",CDI ,Premier emploi,3
+813140357,Datadog,Activité du conseil en systèmes et logiciels informatiques,PARIS,6,4,200,249,Data Scientist ,"Paris, Île-de-France",CDI ,Confirmé,2
+813140357,Datadog,Activité du conseil en systèmes et logiciels informatiques,PARIS,6,4,200,249,Data Scientist ,À distance,CDI ,Premier emploi,2
+538829136,MiXscience,Activité de la fabrication d'aliments pour animaux de ferme,BRUZ,9,8,100,199,Data Scientist ,"Bruz, Bretagne",CDI ,Confirmé,1
+440410637,Groupe SEB,Activité du commerce de gros (commerce interentreprises) d'autres biens domestiques,ECULLY ,19,15,250,499,Data Analyst ,"Écully, Auvergne-Rhône-Alpes",CDI ,Premier emploi,1
+440410637,Groupe SEB,Activité du commerce de gros (commerce interentreprises) d'autres biens domestiques,ECULLY ,19,15,250,499,Data Analyst ,"Écully, Auvergne-Rhône-Alpes",CDD,Confirmé,1
+440410637,Groupe SEB,Activité du commerce de gros (commerce interentreprises) d'autres biens domestiques,ECULLY ,19,15,250,499,Data Scientist ,"Écully, Auvergne-Rhône-Alpes",CDI ,Premier emploi,2
+423507730,Sia Partners,Activité du conseil pour les affaires et autres conseils de gestion,PARIS,22,10,500,999,Data Scientist ,"Nantes, Pays de la Loire",CDI ,Manager,1
+423507730,Sia Partners,Activité du conseil pour les affaires et autres conseils de gestion,PARIS,22,10,500,999,Data Scientist ,"Nantes, Pays de la Loire",Stage,Premier emploi,2
+423507730,Sia Partners,Activité du conseil pour les affaires et autres conseils de gestion,PARIS,22,10,500,999,Data Scientist ,"Marseille, Provence-Alpes-Côte d’Azur",CDI ,Manager,1
+423507730,Sia Partners,Activité du conseil pour les affaires et autres conseils de gestion,PARIS,22,10,500,999,Data Scientist ,"Marseille, Provence-Alpes-Côte d’Azur",Stage,Premier emploi,1
+423507730,Sia Partners,Activité du conseil pour les affaires et autres conseils de gestion,PARIS,22,10,500,999,Data Scientist ,"Marseille, Provence-Alpes-Côte d’Azur",CDI ,Premier emploi,1
+423507730,Sia Partners,Activité du conseil pour les affaires et autres conseils de gestion,PARIS,22,10,500,999,Data Scientist ,"Paris, Île-de-France",CDI ,Premier emploi,1
+423507730,Sia Partners,Activité du conseil pour les affaires et autres conseils de gestion,PARIS,22,10,500,999,Data Scientist ,"Paris, Île-de-France",Stage,Premier emploi,1
+423507730,Sia Partners,Activité du conseil pour les affaires et autres conseils de gestion,PARIS,22,10,500,999,Data Scientist ,"Paris, Île-de-France",CDI ,Manager,1
+423507730,Sia Partners,Activité du conseil pour les affaires et autres conseils de gestion,PARIS,22,10,500,999,Data Engineer ,"Paris, Île-de-France",CDI ,Premier emploi,1
+423507730,Sia Partners,Activité du conseil pour les affaires et autres conseils de gestion,PARIS,22,10,500,999,Data Engineer ,"Paris, Île-de-France",Stage,Premier emploi,1
+322306440,Dassault Systèmes,Activité de l'edition de logiciels applicatifs,VELIZY-VILLACOUBLAY,39,42,2000,4999,Data Engineer ,"Meylan, Auvergne-Rhône-Alpes",CDI ,Premier emploi,1
+322306440,Dassault Systèmes,Activité de l'edition de logiciels applicatifs,VELIZY-VILLACOUBLAY,39,42,2000,4999,Data Analyst ,"Vélizy-Villacoublay, Île-de-France",Stage,Premier emploi,2
+322306440,Dassault Systèmes,Activité de l'edition de logiciels applicatifs,VELIZY-VILLACOUBLAY,39,42,2000,4999,Data Analyst ,"Vélizy-Villacoublay, Île-de-France",CDI ,Premier emploi,3
+322306440,Dassault Systèmes,Activité de l'edition de logiciels applicatifs,VELIZY-VILLACOUBLAY,39,42,2000,4999,Data Scientist ,"Paris, Île-de-France",CDI ,Premier emploi,1
+322306440,Dassault Systèmes,Activité de l'edition de logiciels applicatifs,VELIZY-VILLACOUBLAY,39,42,2000,4999,Data Scientist ,"Vélizy-Villacoublay, Île-de-France",Stage,Premier emploi,4
+322306440,Dassault Systèmes,Activité de l'edition de logiciels applicatifs,VELIZY-VILLACOUBLAY,39,42,2000,4999,Data Scientist ,"Vélizy-Villacoublay, Île-de-France",CDI ,Premier emploi,2
+408024719,Atos,Activité du conseil en systèmes et logiciels informatiques,BEZONS ,25,74,2000,4999,Data Engineer ,"Bezons, Île-de-France",CDI ,Confirmé,2
+408024719,Atos,Activité du conseil en systèmes et logiciels informatiques,BEZONS ,25,74,2000,4999,Data Engineer ,"Lyon, Auvergne-Rhône-Alpes",Stage,Premier emploi,1
+408024719,Atos,Activité du conseil en systèmes et logiciels informatiques,BEZONS ,25,74,2000,4999,Data Analyst ,"Bezons, Île-de-France",CDI ,Premier emploi,1
+408024719,Atos,Activité du conseil en systèmes et logiciels informatiques,BEZONS ,25,74,2000,4999,Data Analyst ,Grenoble et périphérie,Stage,Premier emploi,1
+408024719,Atos,Activité du conseil en systèmes et logiciels informatiques,BEZONS ,25,74,2000,4999,Data Analyst ,Grenoble et périphérie,Stage,Premier emploi,2
+408024719,Atos,Activité du conseil en systèmes et logiciels informatiques,BEZONS ,25,74,2000,4999,Data Scientist ,Grenoble et périphérie,Stage,Premier emploi,2
+408024719,Atos,Activité du conseil en systèmes et logiciels informatiques,BEZONS ,25,74,2000,4999,Data Scientist ,Bordeaux et périphérie,Stage,Premier emploi,2
+353150261,Modis,Activité du conseil en systèmes et logiciels informatiques,VILLEURBANNE ,31,48,2000,4999,Data Scientist ,"Harnes, Hauts-de-France",CDI ,Confirmé,1
+353150261,Modis,Activité du conseil en systèmes et logiciels informatiques,VILLEURBANNE ,31,48,2000,4999,Data Scientist ,"Lyon, Auvergne-Rhône-Alpes",CDI ,Confirmé,1
+798158135,Inside Group,Activité du conseil en systèmes et logiciels informatiques,TOULOUSE ,8,2,6,9,Data Analyst ,Toulouse et périphérie,CDI ,Confirmé,1
+450831557,CHANEL,Activité de la fabrication d'articles de joaillerie et bijouterie,PARIS,18,1,50,99,Data Analyst ,"Paris, Île-de-France",Stage,Premier emploi,1
+450831557,CHANEL,Activité de la fabrication d'articles de joaillerie et bijouterie,PARIS,18,1,50,99,Data Scientist ,"Pantin, Île-de-France",Stage,Premier emploi,1
+384518114,Business & Decision,Activité du conseil en systèmes et logiciels informatiques,COURBEVOIE,29,12,2000,4999,Data Engineer ,"Lille, Hauts-de-France",CDI ,Confirmé,1
+384518114,Business & Decision,Activité du conseil en systèmes et logiciels informatiques,COURBEVOIE,29,12,2000,4999,Data Engineer ,"Paris, Île-de-France",CDI ,Premier emploi,1
+384518114,Business & Decision,Activité du conseil en systèmes et logiciels informatiques,COURBEVOIE,29,12,2000,4999,Data Engineer ,"Montpellier, Occitanie",CDI ,Confirmé,1
+384518114,Business & Decision,Activité du conseil en systèmes et logiciels informatiques,COURBEVOIE,29,12,2000,4999,Data Engineer ,"Lyon, Auvergne-Rhône-Alpes",CDI ,Confirmé,1
+817888654,Beelix,Activité du conseil pour les affaires et autres conseils de gestion,SEVRES ,5,2,20,49,Data Engineer ,"Paris, Île-de-France",CDI ,Confirmé,1
+890811193,Licorne Society,Activité du conseil pour les affaires et autres conseils de gestion,PARIS,1,1,,,Data Analyst ,"Paris, Île-de-France",Stage,Premier emploi,1
+890811193,Licorne Society,Activité du conseil pour les affaires et autres conseils de gestion,PARIS,1,1,,,Data Analyst ,"Paris, Île-de-France",CDI ,Confirmé,1
+890811193,Licorne Society,Activité du conseil pour les affaires et autres conseils de gestion,PARIS,1,1,,,Data Scientist ,"Paris, Île-de-France",CDI ,Confirmé,1
+890811193,Licorne Society,Activité du conseil pour les affaires et autres conseils de gestion,PARIS,1,1,,,Data Scientist ,"Paris, Île-de-France",Stage,Premier emploi,1
+421100645,La Banque Postale,Activité des autres intermédiations monétaires,PARIS,22,112,2000,4999,Data Engineer ,"Paris, Île-de-France",CDI ,Confirmé,1
+421100645,La Banque Postale,Activité des autres intermédiations monétaires,PARIS,22,112,2000,4999,Data Scientist ,"Paris, Île-de-France",CDI ,Manager,1
+421100645,La Banque Postale,Activité des autres intermédiations monétaires,PARIS,22,112,2000,4999,Data Scientist ,"Paris, Île-de-France",Stage,Premier emploi,1
+421100645,La Banque Postale,Activité des autres intermédiations monétaires,PARIS,22,112,2000,4999,Data Analyst ,"Paris, Île-de-France",CDI ,Confirmé,1
+421100645,La Banque Postale,Activité des autres intermédiations monétaires,PARIS,22,112,2000,4999,Data Analyst ,À distance,CDD,Premier emploi,1
+334356672,AXA en France,Activité des fonds de placement et entités financières similaires,NANTERRE ,35,24,,,Data Scientist ,"Nanterre, Île-de-France",CDI ,Confirmé,1
+334356672,AXA en France,Activité des fonds de placement et entités financières similaires,NANTERRE ,35,24,,,Data Scientist ,"Suresnes, Île-de-France",Stage,Premier emploi,4
+334356672,AXA en France,Activité des fonds de placement et entités financières similaires,NANTERRE ,35,24,,,Data Analyst ,"Nanterre, Île-de-France",Stage,Premier emploi,1
+334356672,AXA en France,Activité des fonds de placement et entités financières similaires,NANTERRE ,35,24,,,Data Analyst ,"Angers, Pays de la Loire",Stage,Premier emploi,1
+335146312,ABB,Activité de la réparation de machines et équipements mécaniques,CERGY ,35,54,1000,1999,Data Analyst ,"Beynost, Auvergne-Rhône-Alpes",Stage,Premier emploi,1
+480607894,Xelya,Activité de la tierce maintenance de systèmes et d'applications informatiques,SAINT-CLOUD ,16,3,100,199,Data Analyst ,À distance,CDI ,Premier emploi,1
+434584520,BI consulting,Activité du conseil pour les affaires et autres conseils de gestion,PARIS,20,5,100,199,Data Engineer ,"Paris, Île-de-France",CDI ,Confirmé,1
+530998046,Vivertis,Activités des agences de placement de main-d'oeuvre,LYON ,10,3,1,2,Data Analyst ,"Lyon, Auvergne-Rhône-Alpes",CDI ,Premier emploi,1
+822846366,Devoteam,Activité du conseil en systèmes et logiciels informatiques,LEVALLOIS-PERRET,5,3,50,99,Data Engineer ,"Levallois-Perret, Île-de-France",CDI ,Manager,2
+822846366,Devoteam,Activité du conseil en systèmes et logiciels informatiques,LEVALLOIS-PERRET,5,3,50,99,Data Engineer ,"Levallois-Perret, Île-de-France",Stage,Premier emploi,2
+822846366,Devoteam,Activité du conseil en systèmes et logiciels informatiques,LEVALLOIS-PERRET,5,3,50,99,Data Engineer ,"Lille, Hauts-de-France",CDI ,Président/DG,2
+822846366,Devoteam,Activité du conseil en systèmes et logiciels informatiques,LEVALLOIS-PERRET,5,3,50,99,Data Engineer ,"Lyon, Auvergne-Rhône-Alpes",CDI ,Premier emploi,1
+822846366,Devoteam,Activité du conseil en systèmes et logiciels informatiques,LEVALLOIS-PERRET,5,3,50,99,Data Engineer ,"Levallois-Perret, Île-de-France",CDI ,Premier emploi,2
+822846366,Devoteam,Activité du conseil en systèmes et logiciels informatiques,LEVALLOIS-PERRET,5,3,50,99,Data Engineer ,"Lille, Hauts-de-France",CDI ,Premier emploi,1
+822846366,Devoteam,Activité du conseil en systèmes et logiciels informatiques,LEVALLOIS-PERRET,5,3,50,99,Data Engineer ,"Toulouse, Occitanie",CDI ,Président/DG,1
+822846366,Devoteam,Activité du conseil en systèmes et logiciels informatiques,LEVALLOIS-PERRET,5,3,50,99,Data Analyst ,"Levallois-Perret, Île-de-France",CDI ,Premier emploi,1
+822846366,Devoteam,Activité du conseil en systèmes et logiciels informatiques,LEVALLOIS-PERRET,5,3,50,99,Data Scientist ,"Levallois-Perret, Île-de-France",CDI ,Premier emploi,1
+552144503,Stellantis,Activité du commerce de voitures et de véhicules automobiles légers,POISSY ,66,85,100,199,Data Scientist ,"Vélizy-Villacoublay, Île-de-France",CDI ,Manager,1
+552144503,Stellantis,Activité du commerce de voitures et de véhicules automobiles légers,POISSY ,66,85,100,199,Data Scientist ,"Vélizy-Villacoublay, Île-de-France",Stage,Premier emploi,2
+552144503,Stellantis,Activité du commerce de voitures et de véhicules automobiles légers,POISSY ,66,85,100,199,Data Scientist ,"Vélizy-Villacoublay, Île-de-France",CDI ,Premier emploi,1
+552144503,Stellantis,Activité du commerce de voitures et de véhicules automobiles légers,POISSY ,66,85,100,199,Data Analyst ,"Poissy, Île-de-France",CDI ,Confirmé,1
+552144503,Stellantis,Activité du commerce de voitures et de véhicules automobiles légers,POISSY ,66,85,100,199,Data Analyst ,"Poissy, Île-de-France",Stage,Premier emploi,4
+552144503,Stellantis,Activité du commerce de voitures et de véhicules automobiles légers,POISSY ,66,85,100,199,Data Analyst ,"Poissy, Île-de-France",CDI ,Premier emploi,2
+502303803,PUR Projet,Activité des autres activités de soutien aux entreprises n.c.a,PARIS,13,3,20,49,Data Engineer ,"Paris, Île-de-France",CDI ,Confirmé,1
+841204720,AKUR8,Activité de la programmation informatique,PARIS,3,3,10,19,Data Scientist ,"Paris, Île-de-France",CDI ,Confirmé,2
+841204720,AKUR8,Activité de la programmation informatique,PARIS,3,3,10,19,Data Scientist ,"Paris, Île-de-France",CDI ,Premier emploi,2
+841204720,AKUR8,Activité de la programmation informatique,PARIS,3,3,10,19,Data Scientist ,"Paris, Île-de-France",Stage,Premier emploi,2
+391504693,Aubay,Activité du conseil en systèmes et logiciels informatiques,BOULOGNE-BILLANCOURT ,28,9,2000,4999,Data Scientist ,"Paris, Île-de-France",CDI ,Premier emploi,1
+391504693,Aubay,Activité du conseil en systèmes et logiciels informatiques,BOULOGNE-BILLANCOURT ,28,9,2000,4999,Data Engineer ,"Paris, Île-de-France",CDI ,Premier emploi,1
+508271715,JobTeaser,Activité du conseil pour les affaires et autres conseils de gestion,PARIS,13,6,100,199,Data Analyst ,"Paris, Île-de-France",CDI ,Confirmé,1
+662042449,BNP Paribas,Activité des autres intermédiations monétaires,PARIS,60,3728,10000,,Data Scientist ,"Paris, Île-de-France",CDI ,Premier emploi,3
+662042449,BNP Paribas,Activité des autres intermédiations monétaires,PARIS,60,3728,10000,,Data Analyst ,"Paris, Île-de-France",CDI ,Confirmé,1
+403259534,Umanis,Activité du conseil en systèmes et logiciels informatiques,LEVALLOIS-PERRET,25,30,2000,4999,Data Engineer ,"Paris, Île-de-France",CDI ,Confirmé,1
+403259534,Umanis,Activité du conseil en systèmes et logiciels informatiques,LEVALLOIS-PERRET,25,30,2000,4999,Data Engineer ,"Nantes, Pays de la Loire",CDI ,Premier emploi,2
+403259534,Umanis,Activité du conseil en systèmes et logiciels informatiques,LEVALLOIS-PERRET,25,30,2000,4999,Data Engineer ,"Levallois-Perret, Île-de-France",CDI ,Premier emploi,4
+403259534,Umanis,Activité du conseil en systèmes et logiciels informatiques,LEVALLOIS-PERRET,25,30,2000,4999,Data Engineer ,"Marcq-en-Baroeul, Hauts-de-France",CDI ,Premier emploi,1
+403259534,Umanis,Activité du conseil en systèmes et logiciels informatiques,LEVALLOIS-PERRET,25,30,2000,4999,Data Analyst ,"Aix-en-Provence, Provence-Alpes-Côte d’Azur",CDI ,Premier emploi,1
+403259534,Umanis,Activité du conseil en systèmes et logiciels informatiques,LEVALLOIS-PERRET,25,30,2000,4999,Data Analyst ,"Levallois-Perret, Île-de-France",CDI ,Premier emploi,4
+403259534,Umanis,Activité du conseil en systèmes et logiciels informatiques,LEVALLOIS-PERRET,25,30,2000,4999,Data Scientist ,"Levallois-Perret, Île-de-France",CDI ,Confirmé,1
+403259534,Umanis,Activité du conseil en systèmes et logiciels informatiques,LEVALLOIS-PERRET,25,30,2000,4999,Data Scientist ,"Marcq-en-Baroeul, Hauts-de-France",CDI ,Premier emploi,1
+403259534,Umanis,Activité du conseil en systèmes et logiciels informatiques,LEVALLOIS-PERRET,25,30,2000,4999,Data Scientist ,"Levallois-Perret, Île-de-France",CDI ,Premier emploi,1
+815357769,ACTIVUS Group,Activité du conseil en systèmes et logiciels informatiques,TOULOUSE ,5,8,50,99,Data Analyst ,"Niort, Nouvelle-Aquitaine",CDI ,Premier emploi,2
+815357769,ACTIVUS Group,Activité du conseil en systèmes et logiciels informatiques,TOULOUSE ,5,8,50,99,Data Analyst ,"Toulouse, Occitanie",CDI ,Confirmé,2
+815357769,ACTIVUS Group,Activité du conseil en systèmes et logiciels informatiques,TOULOUSE ,5,8,50,99,Data Scientist ,"Toulouse, Occitanie",CDI ,Premier emploi,1
+562024422,CMA CGM,Activité des transports maritimes et côtiers de fret,MARSEILLE,85,33,2000,4999,Data Analyst ,"Marseille, Provence-Alpes-Côte d’Azur",Stage,Premier emploi,2
+562024422,CMA CGM,Activité des transports maritimes et côtiers de fret,MARSEILLE,85,33,2000,4999,Data Scientist ,"Marseille, Provence-Alpes-Côte d’Azur",CDI ,Manager,1
+562024422,CMA CGM,Activité des transports maritimes et côtiers de fret,MARSEILLE,85,33,2000,4999,Data Engineer ,"Marseille, Provence-Alpes-Côte d’Azur",CDI ,Manager,1
+750538613,CodinGame,Activité de la programmation informatique,MONTPELLIER,9,2,20,49,Data Analyst ,À distance,CDI ,Premier emploi,1
+410002075,VINCI Airports,Activités des sièges sociaux,NANTERRE,25,6,100,199,Data Analyst ,"Colombier, Auvergne-Rhône-Alpes",Stage,Premier emploi,1
+750538613,CodinGame,Activité de la programmation informatique,MONTPELLIER,9,2,20,49,Data Analyst ,À distance,CDI ,Confirmé,2
+442395448,TotalEnergies,Activité du commerce d'électricité,PARIS,19,8,500,999,Data Engineer ,"Paris, Île-de-France",CDI ,Premier emploi,1
+442395448,TotalEnergies,Activité du commerce d'électricité,PARIS,19,8,500,999,Data Analyst ,"Paris, Île-de-France",CDI ,Premier emploi,1
+442395448,TotalEnergies,Activité du commerce d'électricité,PARIS,19,8,500,999,Data Analyst ,"Puteaux, Île-de-France",CDI ,Premier emploi,1
+442395448,TotalEnergies,Activité du commerce d'électricité,PARIS,19,8,500,999,Data Analyst ,"Courbevoie, Île-de-France",CDI ,Premier emploi,1
+442395448,TotalEnergies,Activité du commerce d'électricité,PARIS,19,8,500,999,Data Analyst ,"Puteaux, Île-de-France",CDD,Premier emploi,1
+442395448,TotalEnergies,Activité du commerce d'électricité,PARIS,19,8,500,999,Data Analyst ,"Lacq, Nouvelle-Aquitaine",CDI ,Premier emploi,1
+442395448,TotalEnergies,Activité du commerce d'électricité,PARIS,19,8,500,999,Data Analyst ,"Pau, Nouvelle-Aquitaine",CDI ,Confirmé,1
+442395448,TotalEnergies,Activité du commerce d'électricité,PARIS,19,8,500,999,Data Analyst ,"Le Conquet, Bretagne",CDI ,Premier emploi,1
+442395448,TotalEnergies,Activité du commerce d'électricité,PARIS,19,8,500,999,Data Scientist ,"Pau, Nouvelle-Aquitaine",CDI ,Premier emploi,1
+442395448,TotalEnergies,Activité du commerce d'électricité,PARIS,19,8,500,999,Data Scientist ,"Paris, Île-de-France",CDI ,Premier emploi,1
+442395448,TotalEnergies,Activité du commerce d'électricité,PARIS,19,8,500,999,Data Scientist ,"Courbevoie, Île-de-France",CDI ,Premier emploi,1
+442395448,TotalEnergies,Activité du commerce d'électricité,PARIS,19,8,500,999,Data Scientist ,"Pau, Nouvelle-Aquitaine",CDI ,Premier emploi,1
+442395448,TotalEnergies,Activité du commerce d'électricité,PARIS,19,8,500,999,Data Scientist ,"Courbevoie, Île-de-France",CDD,Premier emploi,2
